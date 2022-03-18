@@ -4,6 +4,8 @@
 
 layout: home
 ---
+
+![!nuno bw](./assets/images/pic.jpg){: width="250" border-radius="50%"}
 # Hello
 
 I am a data scientist working at BI X Digital Lab (Boehringer Ingelheim) in Germany.

@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: ""
 ---
 
-![!nuno bw](./assets/images/pic.jpg){: width="250" border-radius="50%"}
-# Hello
+# Hi,
 
 I am a data scientist working at BI X Digital Lab (Boehringer Ingelheim) in Germany.
 

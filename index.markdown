@@ -8,4 +8,6 @@ title: ""
 
 # Hi,
 
-<center>I am a data scientist working at BI X Digital Lab (Boehringer Ingelheim) in Germany.</center>
+I am a Senior Data Scientist working at BI X, the digital lab of Boehringer Ingelheim.
+
+I studied Biotechnology in Lisbon and made a PhD in Evolutionary Biology at the John Innes Centre and University of Oxford. In 2011 I moved to Switzerland, where I was a researcher and lecturer at the University of Zurich. In 2018 I moved to Germany to join BI X and develop digital solutions for drug discovery and digital health.

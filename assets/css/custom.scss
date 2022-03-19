@@ -3,12 +3,13 @@
 @import "minima";
 
 .profile_picture {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    filter: sepia(0.2);
 }
   
 .custom_footer {
@@ -16,4 +17,11 @@
   font-size: 80%;
   text-align: right;
 
+}
+
+.bgimage {
+  background-image: url("/assets/images/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

@@ -7,9 +7,8 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  <img class="profile_picture" src="/assets/images/profile_picture.jpg">
-
   {{ content }}
+  
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>

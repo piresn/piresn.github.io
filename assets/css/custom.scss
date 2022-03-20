@@ -3,12 +3,13 @@
 @import "minima";
 
 .profile_picture {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
     filter: sepia(0.2);
 }
   
@@ -24,4 +25,26 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.journal_ref {
+  font-style: italic;
+  color:grey;
+}
+
+.social-icon {
+  height: 40px;
+  // https://codepen.io/sosuke/pen/Pjoqqp:
+  filter: invert(17%) sepia(7%) saturate(5116%) hue-rotate(166deg) brightness(103%) contrast(82%);
+}
+
+.social-icon-list {
+  letter-spacing: 15px;
+  line-height: 5;
+  text-align: center;
+}
+
+.home {
+  //line-height: 2;
+  text-align: center;
 }
